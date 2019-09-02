@@ -1,0 +1,62 @@
+
+.logo{
+	height: 70px;
+	background-color: #00ffff;
+	color: #cc33ff;
+}
+
+.header{
+	min-height: 40px;
+    background-color: #c266ff;
+    text-align: center;
+    
+    padding-top: 5PX;
+    padding-bottom: 5px;
+	
+
+}
+.header p{
+	margin-top: 10px;
+}
+.banner{
+	height:50px;
+	text-align: center;
+	background-color: #ffb3b3;
+	padding: 15px ;
+}
+.wrapper{
+	/*/overflow: hidden;/*/
+}
+.sidebar{
+	min-height: 500px;
+	background-color:#ccff99;
+	width: 37%;
+	float: left;
+	border: 5px solid #660033;
+
+
+}
+.sidebar h1{
+	text-align: center;
+	margin-top: 225PX;
+}
+
+.bodyarea{
+	min-height: 500px;
+	background-color:#bbff33;
+	width: 60%;
+	float: right;
+	border: 5px solid #999966;
+	
+}
+.bodyarea h1 {
+	text-align: center;
+	margin-top: 225PX;
+}
+
+.footer{
+	min-height: 40px;
+	background-color: #c2c2d6;
+	text-align: center;
+	clear: both;
+	padding-top: 20PX;
